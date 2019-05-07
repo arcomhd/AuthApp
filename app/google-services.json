@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210501727845",
+    "firebase_url": "https://authapp-caccc.firebaseio.com",
+    "project_id": "authapp-caccc",
+    "storage_bucket": "authapp-caccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210501727845:android:f19f99d761661aa5",
+        "android_client_info": {
+          "package_name": "com.vokasi.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210501727845-g5t5ga4581l2gb0s9h0hnhr6ia5t5sde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vokasi.authapp",
+            "certificate_hash": "93735a397a7034b42465444902f16d599f0ebca6"
+          }
+        },
+        {
+          "client_id": "210501727845-6l11m5p3p75l0ghg8t7osji3221n8lit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_skRgcS0fjKWOIAU1VrZfzuXnoNxB17Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210501727845-6l11m5p3p75l0ghg8t7osji3221n8lit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
